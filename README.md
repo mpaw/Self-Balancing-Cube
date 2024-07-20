@@ -10,6 +10,8 @@ Or you can print redesigned cube https://www.thingiverse.com/thing:6695891
 
 The red connections you see in the schematic must be connected!
 
+If something doesn't work, try the motors test sketch. It tests all motors, rotation directions and encoders.
+
 Folow this video https://youtu.be/ZU0oTBRDgOE
 
 ---
